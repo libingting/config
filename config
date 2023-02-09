@@ -1,0 +1,44 @@
+{
+	"file": {
+		"revVer": "6.0",
+		"revOpen": false
+	},
+	"paste": {
+		"revVer": "3.0",
+		"revOpen": false
+	},
+	"shortcut": {
+		"revVer": "1.0",
+		"revOpen": false
+	},
+	"calculator": {
+		"revVer": "1.0",
+		"revOpen": false
+	},
+	"debugDevices":[
+					"B935B69D-11D2-4B08-AFD4-B0FF45C45A19-1653034433227"
+					],
+	"shortcuts":[
+		{
+			"bundleId":"com.redpanda.media",
+			"isTop": true
+		},
+		{
+			"bundleId":"com.redpanda.pasteboard",
+			"isTop": true
+		},
+		{
+			"bundleId":"com.redpanda.calculator",
+			"isTop": true
+		},
+		{
+			"bundleId":"com.redpanda.shortcut",
+			"isTop": true
+		}
+	],
+	"unsupportBundleIds": [
+		"com.redpanda.photo",
+		"com.redpanda.health",
+		"com.redpanda.lbtpassword"
+	]
+}
